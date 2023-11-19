@@ -1,0 +1,21 @@
+body {
+    background-color: aqua;
+    font-weight: bold;
+    color: white;
+
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
+.card {
+    width: 60%;
+    height: 30%;
+    background-color: blue;
+    
+}
